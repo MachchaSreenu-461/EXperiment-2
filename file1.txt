@@ -6,3 +6,6 @@ kkr
 srh
 kings
 rr
+github
+linkdein
+code platforms
